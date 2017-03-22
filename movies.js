@@ -29,7 +29,7 @@ module.exports =[
                     'quote':'60 % of the time it work every time',
                     'id': 3
                 }
-            ]
+            ],
         },
         {
             id: 2,
@@ -65,7 +65,7 @@ module.exports =[
                     'quote':'Fly you fools!',
                     'id': 6
                 }
-            ]
+            ],
         },
         {
             id: 3,
@@ -97,6 +97,6 @@ module.exports =[
                     'quote':'Message for you sir!',
                     'id': 9
                 }
-            ]
+            ],
         }
     ];
