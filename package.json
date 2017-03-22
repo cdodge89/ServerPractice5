@@ -1,0 +1,24 @@
+{
+  "name": "serverpractice5",
+  "version": "1.0.0",
+  "description": "WTA backend server practice project using middleware and multiple routes",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "uuid": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdodge89/ServerPractice5.git"
+  },
+  "author": "Connor Dodge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdodge89/ServerPractice5/issues"
+  },
+  "homepage": "https://github.com/cdodge89/ServerPractice5#readme"
+}
